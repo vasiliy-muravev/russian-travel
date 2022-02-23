@@ -9,3 +9,7 @@
 .header__lang-link:nth-of-type(1) {
     margin-right: 18px;
 }
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}

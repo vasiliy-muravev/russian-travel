@@ -1,0 +1,10 @@
+.paragraph__item {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.paragraph__item:nth-of-type(1) {
+    margin-bottom: 26px;
+}
