@@ -34,3 +34,10 @@
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link/_content/footer__link_last_link.css);
+@import url(../blocks/footer/__content-copyright/footer__content-copyright.css);
+@import url(../blocks/footer/__author/footer__author.css);
