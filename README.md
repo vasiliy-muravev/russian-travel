@@ -1,23 +1,44 @@
-# Проект: Путешествие по России
+# Travel in Russia (landing page)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+See demo [https://vasiliy-muravev.github.io/russian-travel/](https://vasiliy-muravev.github.io/russian-travel/)
 
-**Интро**
+## What is this?
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+One page website on pure modern Html and CSS. Educational project from [https://practicum.yandex.ru](https://practicum.yandex.ru). [Figma layout](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Figma**
+## Use
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+1. Download project files
 
-**Картинки**
+- The easiest way to run a project is download zip
+  from [https://github.com/vasiliy-muravev/russian-travel](https://github.com/vasiliy-muravev/russian-travel)
+- Or you can use the command
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+```sh
+git clone https://github.com/vasiliy-muravev/russian-travel.git
+```
 
-Удачи!
+2. Open the index.html file in any browser
+
+## Inside
+
+### Structure
+
+- Header
+- Main
+- Footer
+
+### Blocks
+
+- `lead`
+- `intro`
+- `photo-grid`
+- `places`
+- `cover`
+
+### Technologies
+
+- html
+- css
+- flex
+- grid
