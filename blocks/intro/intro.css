@@ -3,3 +3,23 @@
     padding-top: 114px;
     padding-bottom: 92px;
 }
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        margin: 0 48px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        margin: 0 24px;
+        padding-top: 110px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .intro {
+        margin: 0 16px;
+        padding-top: 86px;
+    }
+}

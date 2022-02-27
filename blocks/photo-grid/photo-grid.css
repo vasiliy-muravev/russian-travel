@@ -7,3 +7,26 @@
     margin: 0 48px;
     padding-bottom: 92px;
 }
+
+@media screen and (max-width: 1023px) {
+    .photo-grid {
+        grid-template-rows: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .photo-grid {
+        grid-template-rows: repeat(6, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0 24px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .photo-grid {
+        grid-template-rows: repeat(12, 1fr);
+        grid-template-columns: repeat(1, 1fr);
+        margin: 0 16px;
+    }
+}

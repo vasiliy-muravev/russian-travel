@@ -8,3 +8,9 @@
 .paragraph__item:nth-of-type(1) {
     margin-bottom: 26px;
 }
+
+@media screen and (max-width: 767px) {
+    .paragraph__item {
+        font-size: 16px;
+    }
+}

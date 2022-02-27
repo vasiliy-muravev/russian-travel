@@ -6,3 +6,15 @@
     text-transform: uppercase;
     margin: 8px auto 0 0;
 }
+
+@media screen and (max-width: 767px) {
+    .lead__caption {
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .lead__caption {
+        margin-left: 16px;
+    }
+}
