@@ -1,4 +1,4 @@
-# Travel in Russia (landing page)
+# Project: Travel in Russia (landing page)
 
 See demo [https://vasiliy-muravev.github.io/russian-travel/](https://vasiliy-muravev.github.io/russian-travel/)
 
